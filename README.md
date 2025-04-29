@@ -40,12 +40,13 @@ python chatbot.py
 
 ## File Structure
 ```
-IIS_Chatbot_Reception/
+IIS_Chatbot_Reception
 │
-├── Chatbot_Reception_G04.py   # Main script to run the chatbot
-├── encryption_key.key         # Encryption key (already included)
-├── README.md                  # Setup instructions and project info
-└── requirements.txt           # Python dependencies
+├── Chatbot_Reception_G04.py     # Main script to run the chatbot
+├── Chatbot_Video_Demo.mp4       # Demo video (optional)
+├── README.md                    # Setup instructions and project info
+├── encryption_key.key           # Encryption key file
+└── requirements.txt             # Python dependencies
 ```
 
 
