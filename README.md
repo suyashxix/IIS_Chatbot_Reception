@@ -28,7 +28,7 @@ via your environment.
 git clone https://github.com/suyashxix/IIS_Chatbot_Reception.git
 
 # Step 2: Navigate into the project directory
-cd encrypted-chatbot
+cd IIS_Chatbot_Reception
 
 # Step 3: Install dependencies
 pip install -r requirements.txt
