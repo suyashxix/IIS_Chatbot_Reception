@@ -22,7 +22,7 @@ python -m spacy download en_core_web_sm
 If ollama is not available via pip and is a custom/internal package, make sure it's installed or accessible
 via your environment.
 
-## 3 Commands to Run the Project
+## 3. Commands to Run the Project
 
 # Step 1: Clone the repository
 git clone https://github.com/suyashxix/IIS_Chatbot_Reception.git
