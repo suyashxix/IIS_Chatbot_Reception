@@ -2,7 +2,7 @@
 
 ## 1. Description/Objective: 
 This project aims to build a Multilingual Reception Chatbot that supports text-based and voice-based 
-input according to the user's preference. The chatbot uses Natural Language Processing for intent identification, LLMs handle voice input, and MongoDB for secure data handling.
+input according to the user's preference. The chatbot uses Natural Language Processing for intent identification, LLMs to handle voice input, and MongoDB for secure data handling.
 
 ## 2. Necessary Libraries / Installation Requirements
 Install the required libraries by running:
