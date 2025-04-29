@@ -1,0 +1,8 @@
+pymongo
+cryptography
+spacy
+fpdf
+requests
+pyaudio
+openai-whisper
+numpy
