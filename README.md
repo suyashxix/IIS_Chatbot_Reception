@@ -42,10 +42,10 @@ python chatbot.py
 ```
 IIS_Chatbot_Reception/
 │
-├── chatbot.py               # Main script to run the chatbot
-├── encryption_key.key       # Encryption key (already included)
-├── README.md                # Setup instructions and project info
-└── requirements.txt         # Python dependencies
+├── Chatbot_Reception_G04.py   # Main script to run the chatbot
+├── encryption_key.key         # Encryption key (already included)
+├── README.md                  # Setup instructions and project info
+└── requirements.txt           # Python dependencies
 ```
 
 
