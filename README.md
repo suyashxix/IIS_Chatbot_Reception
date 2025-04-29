@@ -25,7 +25,7 @@ via your environment.
 ## 3 Commands to Run the Project
 
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/encrypted-chatbot.git
+git clone https://github.com/suyashxix/IIS_Chatbot_Reception.git
 
 # Step 2: Navigate into the project directory
 cd encrypted-chatbot
@@ -39,13 +39,13 @@ python chatbot.py
 > ✅ **Note:** The `encryption_key.key` file is already included in the repository, so you do not need to generate it manually. Just ensure it remains in the root directory when running the script.
 
 ## File Structure
-
+```
 IIS_Chatbot_Reception/
 │
-├── README.md              # Setup and usage guide
-├── requirements.txt       # Python dependencies
-├── chatbot.py             # Main chatbot script
-└── encryption_key.key     # Encryption key file (not tracked in Git)
-
+├── chatbot.py               # Main script to run the chatbot
+├── encryption_key.key       # Encryption key (already included)
+├── README.md                # Setup instructions and project info
+└── requirements.txt         # Python dependencies
+```
 
 
